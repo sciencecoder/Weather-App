@@ -1,0 +1,16 @@
+body {
+  background-color: #013012;
+ color: white; 
+}
+
+h1 {
+  font-size: 3.5em;
+  margin-bottom: 50px;
+}
+button {
+  color: black;
+}
+
+#icon {
+  font-size: 2em;
+}
