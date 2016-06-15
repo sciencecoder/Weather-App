@@ -1,5 +1,5 @@
 body {
-  background-color: #013012;
+  background-color: black;
  color: white; 
 }
 
@@ -8,9 +8,15 @@ h1 {
   margin-bottom: 50px;
 }
 button {
-  color: black;
+ color: black;
 }
 
 #icon {
+ width: 100%;
   font-size: 2em;
+   padding: 15px;
+}
+
+button, #icon {
+  margin-top: 20px;
 }
